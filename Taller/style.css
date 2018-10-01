@@ -1,0 +1,62 @@
+body{
+    background-color: #767DE4;
+
+}
+.content{
+    background-color: #fff;
+    border: 0.70em solid black;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    
+}
+
+.buscador{
+    margin-left: 68%;
+}
+input{
+    margin-top: 5%;
+}
+
+hr{
+    margin-left: 10%;
+    margin-right: 10%;
+    color:#ccc;  
+
+
+}
+h1{
+    margin-left: 50%;
+    margin-right: 50%;
+    font-size: 3em;
+    
+
+}
+
+#lista{
+    font-size: 3em;
+    margin-left: 10%;
+    
+}
+table{
+    margin-left: 10%;
+   
+}
+
+article{
+    margin-left: 4%;
+    margin-right: 10%;
+    margin-top: 3%
+}
+strong{
+    color: #a33546;
+}
+.far{
+    font-size: 1em;
+}
+#heart{
+
+    font-size: 1em;
+    margin-left: 5%;
+    margin-left: 2%;
+}

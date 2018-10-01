@@ -1,0 +1,41 @@
+table{
+    margin: auto auto;
+}
+
+td{
+    width:70px;
+    height: 70px;
+    
+    
+}
+tr:nth-child(even) td:nth-child(odd){
+    background-color:black;
+}
+tr:nth-child(odd) td:nth-child(even){
+    background-color:black;
+}
+tr:nth-child(even) td:nth-child(odd):hover{
+    background-color: rgba(255, 0, 0, 0.5);
+}
+tr:nth-child(odd) td:nth-child(even):hover{
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+td:hover{
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+div {
+    visibility: hidden;
+    text-align: center;
+}
+td:hover div{
+    visibility: visible;
+    
+}
+
+h1{
+    color: rgb(16, 16, 78);
+   text-align: center;
+}
+
